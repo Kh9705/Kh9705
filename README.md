@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 
-- 💻 Skilled in **C, C++, Python, JavaScript** (basically fluent in talking to computers).  
+- 💻 Skilled in **Java C, C++, Python, JavaScript** (basically fluent in talking to computers).  
 - 🌐 Experience with **Full-Stack Web Development** (I can break both frontend and backend equally well).  
 - 🤖 Knowledge of **Machine Learning & Deep Learning** with frameworks like **TensorFlow & PyTorch**.  
 - ☁️ Comfortable with **APIs, Firebase, and Google Cloud**.  
@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack  
 
-**Languages:** C | C++ | Python | JavaScript  
+**Languages:** C | C++ | Python | JavaScript|Java|ROSS
 **Frameworks & Libraries:** TensorFlow | PyTorch | React | Node.js | Express  
 **Databases:** MySQL | MongoDB | Firebase  
 **Cloud & Tools:** Google Cloud | Git/GitHub | REST APIs | Docker  
