@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack  
 
-**Languages:** C | C++ | Python | JavaScript|Java|ROSS
+**Languages:** C | C++ | Python | JavaScript | Java | ROSS
 **Frameworks & Libraries:** TensorFlow | PyTorch | React | Node.js | Express  
 **Databases:** MySQL | MongoDB | Firebase  
 **Cloud & Tools:** Google Cloud | Git/GitHub | REST APIs | Docker  
